@@ -6,10 +6,11 @@
 
 Most of the datasets used in USB can be download and used directly:
 
+Download the data from this onedrive link: https://1drv.ms/u/c/af426f3217f6565a/ERsn-5wCWE1Bj-Rz4UyJEwABW4K10laA4cKG1xyqJmzpmg
+
 ```bash
 cd ../
 mkdir data & cd data
-wget https://wjdcloud.blob.core.windows.net/dataset/usbdata.tar.gz
 tar -xvf usbdata.tar.gz
 ```
 
